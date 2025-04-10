@@ -1403,7 +1403,7 @@ const PROVIDER_WEB3 = {
     EXTERNAL_WEB3_SOLANA_ENABLED: boolean().required(),
   }),
   misc: {
-    iconKey: 'saml-icon',
+    iconKey: 'web3-icon',
   },
 }
 
